@@ -7,7 +7,9 @@ I'm Dagim from Ethiopia, and I do contents on coding and development. I really e
 
 ## Technical skills
 ### Technologies
-web-development,JavaScript,PHP
+web-development
+### Programming Languages
+Python,Javascript,PHP and C++
 ### Frameworks
 LARAVEL,REACT,DJANGO,BOOTSTRAP and TAILWIND CSS
 ### Tools
