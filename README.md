@@ -13,6 +13,6 @@ Python,Javascript,PHP and C++
 ### Frameworks
 LARAVEL,REACT,DJANGO,BOOTSTRAP and TAILWIND CSS
 ### Tools
-vscode,Git and Github
+Vscode,Git and Github
 
 
