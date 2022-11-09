@@ -4,3 +4,13 @@ I'm Dagim from Ethiopia, and I do contents on coding and development. I really e
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dagim-Zeynu)](https://github.com/anuraghazra/github-readme-stats)
+
+## Technical skills
+### Technologies
+web-development,JavaScript,PHP
+### Frameworks
+LARAVEL,REACT,DJANGO,BOOTSTRAP and TAILWIND CSS
+### Tools
+vscode,Git and Github
+
+
