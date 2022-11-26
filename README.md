@@ -11,7 +11,7 @@ web-development
 ### Programming Languages
 Python,Javascript,PHP and C++
 ### Frameworks
-LARAVEL,REACT,DJANGO,BOOTSTRAP and TAILWIND CSS
+LARAVEL,BOOTSTRAP and TAILWIND CSS
 ### Tools
 Vscode,Git and Github
 
