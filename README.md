@@ -1,30 +1,44 @@
-### Hi there 👋
-👋 Hello there! I'm Dagim Zeynu. from Ethiopia, a passionate and experienced Full Stack Developer who loves bringing ideas to life through stunning web applications.
+# Hi there 👋
 
-🎨 With a strong foundation in HTML, CSS, and JavaScript, I specialize in creating beautiful and intuitive user interfaces that captivate audiences. I thrive on transforming designs into interactive websites that not only look incredible but also provide seamless user experiences.
+I'm **Dagim Zeynu** from Ethiopia, a dedicated Backend Developer with a focus on Python and Django. I am currently a 4th-year Mechanical Engineering student at the University of Gondar, Ethiopia, and I am always eager to learn new technologies to enhance my skills.
 
-⚛️ My expertise extends to modern front-end frameworks like React, enabling me to build dynamic and responsive web applications. Whether it's crafting interactive components, managing state efficiently, or optimizing performance, I harness the power of React to deliver robust and scalable solutions.
+## About Me
 
-🔙 On the back end, I'm well-versed in Node.js and skilled at developing server-side logic and APIs. With frameworks like Express, I build RESTful APIs and seamlessly handle database operations. My focus is on architecting secure and efficient server-side solutions for smooth client-server communication.
+🔙 **Backend Expertise**: My primary strength lies in backend development with Python and Django. I specialize in developing robust server-side logic and APIs, ensuring efficient and secure client-server communication. My experience with Django allows me to build scalable and maintainable web applications with seamless database integration.
 
-🚀 As a full stack developer, I thrive on end-to-end project development. From designing captivating user interfaces to implementing complex business logic and deploying the final application, I ensure top-notch quality throughout the entire process.
+🎨 **Front-End Proficiency**: While my focus is on backend development, I have a solid grasp of front-end technologies. This includes HTML, CSS, and JavaScript, which enables me to understand and implement user interfaces that offer a smooth user experience.
 
-📚 My commitment to continuous learning keeps me up to date with the latest web technologies and industry trends. I'm always excited to explore new tools and frameworks that streamline my development process and contribute to the success of the projects I undertake.
+🚀 **End-to-End Development**: I thrive on managing projects from conception to deployment. My approach ensures top-notch quality at every stage, from designing complex business logic to deploying the final application.
 
-🤝 If you're seeking a dedicated and creative full stack developer who can transform your ideas into exceptional results, I'm here to collaborate with you! Let's create something extraordinary together!
-You can check out my youtube https://www.youtube.com/channel/UCgX2rl4E11JUiO-hwqZs2Jw
+📚 **Continuous Learning**: I am committed to staying up-to-date with the latest industry trends and technologies. My proactive learning approach helps me integrate the most effective tools and frameworks into my projects, contributing to their success.
 
+🤝 **Collaboration and Contribution**: If you are looking for a dedicated backend developer to bring your ideas to life, I am here to collaborate and create exceptional results together. Feel free to connect with me!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dagim-Zeynu)](https://github.com/anuraghazra/github-readme-stats)
+## Connect with Me
 
-## Technical skills
-### Technologies
-web-development
+- **YouTube**: [Dagim Zeynu's Channel](https://www.youtube.com/channel/UCgX2rl4E11JUiO-hwqZs2Jw)
+
+---
+
+![Dagim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dagim-Zeynu&show_icons=true&theme=radical)
+
+## Technical Skills
+
 ### Programming Languages
-Python,Javascript and C++
+- Python
+- JavaScript
+- C++
+
 ### Frameworks
-Django,BOOTSTRAP and REACT
+- Django
+- Bootstrap (for front-end understanding)
+- React (for front-end understanding)
+
 ### Tools
-Vscode,Git and Github
+- VS Code
+- Git
+- GitHub
 
+---
 
+Thank you for visiting my profile! Let's build something amazing together.
