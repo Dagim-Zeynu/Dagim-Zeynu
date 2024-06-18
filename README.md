@@ -21,9 +21,9 @@ You can check out my youtube https://www.youtube.com/channel/UCgX2rl4E11JUiO-hwq
 ### Technologies
 web-development
 ### Programming Languages
-Python,Javascript,PHP and C++
+Python,Javascript and C++
 ### Frameworks
-LARAVEL,BOOTSTRAP and REACT
+Django,BOOTSTRAP and REACT
 ### Tools
 Vscode,Git and Github
 
