@@ -31,8 +31,8 @@ I'm **Dagim Zeynu** from Ethiopia, a dedicated Backend Developer with a focus on
 
 ### Frameworks
 - Django
-- Bootstrap (for front-end understanding)
-- React (for front-end understanding)
+- Bootstrap
+- React
 
 ### Tools
 - VS Code
