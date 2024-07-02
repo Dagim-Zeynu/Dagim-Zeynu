@@ -8,7 +8,7 @@ I'm **Dagim Zeynu** from Ethiopia, a dedicated Backend Developer with a focus on
 
 🎨 **Front-End Proficiency**: While my focus is on backend development, I have a solid grasp of front-end technologies. This includes HTML, CSS, and JavaScript, which enables me to understand and implement user interfaces that offer a smooth user experience.
 
-🚀 **End-to-End Development**: I thrive on managing projects from conception to deployment. My approach ensures top-notch quality at every stage, from designing complex business logic to deploying the final application.
+
 
 📚 **Continuous Learning**: I am committed to staying up-to-date with the latest industry trends and technologies. My proactive learning approach helps me integrate the most effective tools and frameworks into my projects, contributing to their success.
 
