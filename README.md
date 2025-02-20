@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Dagim Zeynu** from Ethiopia, a dedicated Backend Developer with a focus on Python and Django. I am currently a 4th-year Mechanical Engineering student at the University of Gondar, Ethiopia, and I am always eager to learn new technologies to enhance my skills.
+I'm **Dagim Zeynu** from Ethiopia, a dedicated Backend Developer with a focus on Python and Django. I am currently a 5th-year Mechanical Engineering student at the University of Gondar, Ethiopia, and I am always eager to learn new technologies to enhance my skills.
 
 ## About Me
 
